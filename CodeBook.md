@@ -13,6 +13,10 @@ There are an additional 2 variables that provide the test subject identification
 
 ## Variables
 
+### Descriptive 
+
+#### *Unitless*
+
 __id__ 
 
 The integer-based identification number assigned to the test subject
@@ -23,31 +27,31 @@ The type of physical activity being performed
 
 ### Mean acceleration/velocity measurements
 
-#### Standard gravity units of 'g'
+#### *Standard gravity units of 'g'*
 
 __tBodyAcc_mean__
 
-
+Mean of the body acceleration signal
 
 __tGravityAcc_mean__
 
-
+Mean of the gravity acceleration signal
 
 __tBodyAccJerk_mean__
 
+Mean of the body acceleration jerk signal
 
-
-#### Units of radians/second
+#### *Units of radians/second*
 
 __tBodyGyro_mean__ 
 
-
+Mean of the body angular velocity signal
 
 __tBodyGyroJerk_mean__
 
 ### Transformed acceleration/velocity measurements to frequency domain
 
-#### Units of Hertz
+#### *Units of Hertz*
 
 __fBodyAcc_mean__ 
 
@@ -67,7 +71,7 @@ __fBodyGyroJerk_mean__
 
 ### Mean standard deviation of acceleration/velocity measurements
 
-#### Standard gravity units of 'g'
+#### *Standard gravity units of 'g'*
 
 __tBodyAcc_std__  
 
@@ -81,7 +85,7 @@ __tBodyAccJerk_std__
 
 
 
-#### Units of radians/second
+#### *Units of radians/second*
 
 __tBodyGyro_std__
 
@@ -91,7 +95,7 @@ __tBodyGyroJerk_std__
 
 
 
-#### Units of Hertz
+#### *Units of Hertz*
 
 __fBodyAcc_std__
 
