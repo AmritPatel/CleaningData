@@ -3,7 +3,7 @@ Codebook
 
 ## Dataset Description
 
-There are a total of 20 variables in this dataset.
+There are a total of 20 variables in this dataset in "tidy_summ.txt".
 
 There are 5 variables corresponding to 5 different acceleration/velocity measurements made for each activity and test subject. For each measurement this dataset contains: (1) the mean of several repeated measurements that have been normalized, and (2) the mean of the standard deviation of several repeated measurements that have been normalized.
 
