@@ -49,25 +49,27 @@ Mean of the body angular velocity signal
 
 __tBodyGyroJerk_mean__
 
+Mean of the body angular velocity jerk signal
+
 ### Transformed acceleration/velocity measurements to frequency domain
 
 #### *Units of Hertz*
 
 __fBodyAcc_mean__ 
 
-
+Mean of the body acceleration signal
 
 __fBodyAccJerk_mean__
 
-
+Mean of the body acceleration jerk signal
 
 __fBodyGyro_mean__ 
 
-
+Mean of the body angular velocity signal
 
 __fBodyGyroJerk_mean__
 
-
+Mean of the body angular velocity jerk signal
 
 ### Mean standard deviation of acceleration/velocity measurements
 
@@ -75,40 +77,40 @@ __fBodyGyroJerk_mean__
 
 __tBodyAcc_std__  
 
-
+Standard deviation of the body acceleration signal
 
 __tGravityAcc_std__
 
-
+Standard deviation of the gravity acceleration signal
 
 __tBodyAccJerk_std__
 
-
+Standard deviation of the body acceleration jerk signal
 
 #### *Units of radians/second*
 
 __tBodyGyro_std__
 
-
+Standard deviation of the body angular velocity signal
 
 __tBodyGyroJerk_std__
 
-
+Standard deviation of the body angular velocity jerk signal
 
 #### *Units of Hertz*
 
 __fBodyAcc_std__
 
-
+Standard deviation of the body acceleration signal
 
 __fBodyAccJerk_std__ 
 
-
+Standard deviation of the body acceleration jerk signal
 
 __fBodyGyro_std__
 
-
+Standard deviation of the body angular velocity signal
 
 __fBodyGyroJerk_std__ 
 
-
+Standard deviation of the body angular velocity jerk signal
